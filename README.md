@@ -1,2 +1,2 @@
 # KursovayaPharmacy
-Вся рфбота находится в ветке master
+Вся работа находится в ветке master
