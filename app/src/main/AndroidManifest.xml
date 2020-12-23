@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kursovayapharmacy">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@color/dark_blueish_green"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KursovayaPharmacy">
+        <activity android:name=".MainActivity" android:label="@string/warning">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ProductsActivity" android:label="@string/products">
+
+        </activity>
+        <activity android:name=".InfoActivity" android:label="@string/info">
+
+        </activity>
+        <activity android:name=".BasketActivity" android:label="@string/basket">
+
+        </activity>
+        <activity android:name=".FillInForm" android:label="@string/buying_form">
+
+        </activity>
+        <activity android:name=".ThankingActivity" android:label="@string/thanks">
+
+        </activity>
+    </application>
+
+</manifest>

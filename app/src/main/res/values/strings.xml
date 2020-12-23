@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">KursovayaPharmacy</string>
+    <string name="warning">This is a demo-app</string>
+    <string name="pharmacy">Online Pharmacy</string>
+    <string name="info">Информация</string>
+    <string name="products">Товары</string>
+    <string name="basket">Корзина</string>
+    <string name="exit">Выход</string>
+    <string name="buy">Купить</string>
+    <string name="buying_form">Оформление заказа</string>
+    <string name="FIO">Ваше ФИО</string>
+    <string name="address">Ваш адрес</string>
+    <string name="phone">Ваш телефон</string>
+    <string name="return_button">Вернуться к главному экрану</string>
+
+    <string name="image_content_descr">heh</string>
+    <string name="buying_button">Оформить заказ</string>
+    <string name="buying_warning">Оплата наличными или с карты, как только курьер приедет, он позвонит Вам на номер телефона.</string>
+    <string name="FIO_example">Иванов Иван</string>
+    <string name="address_example">Москва, улица, дом, квартира</string>
+    <string name="phone_example">79160000000</string>
+    <string name="thanks">Спасибо за покупку! Ожидайте доставку в течение 30 минут.</string>
+
+    <string name="welcome">Добро пожаловать в приложение Online Pharmacy!</string>
+    <string name="before_info_button">Если Вам интересно узнать о приложении больше, нажмите кнопку ниже.</string>
+    <string name="info_description">Данное демо-приложение является курсовой работой учащегося группы ИКБО-07-18 Вьюгиной А.С.  </string>
+    <string name="info_description2">Если вы хотите поддержать этот независимый проект, заплатите 999 рублей на патреон Online_Pharmacy ;) </string>
+    <string name="basket_description">Тут будет список ваших покупок.</string>
+    <string name="medicine1">Нурофен</string>
+    <string name="medicine1_descr">Обезболивающее</string>
+
+    <string name="dollars_format" formatted="false">Руб.%d</string>
+    <string name="minus" formatted="false">-</string>
+    <string name="plus" formatted="false">+</string>
+    <string name="quantity" formatted="false">1</string>
+    <string name="cart_success_mes" formatted="false">Вы добавили %d товаров в свою корзину на общую стоимость %d</string>
+</resources>
